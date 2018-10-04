@@ -1,0 +1,19 @@
+{
+  "name": "dockernode",
+  "version": "1.0.0",
+  "description": "playing with docker and node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borel/dockerNode.git"
+  },
+  "author": "pbb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borel/dockerNode/issues"
+  },
+  "homepage": "https://github.com/borel/dockerNode#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
